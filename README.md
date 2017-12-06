@@ -21,4 +21,3 @@ The calculator should aim to show a the user what their cash position will be if
 
 
 
-#test
