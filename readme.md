@@ -10,6 +10,7 @@ The purpose of this project is to provide a calculator which helps people to be 
 + currency conversions
 + include currency conversions
 + Feature A - calls to check affordability based on how much chocolate the customer eats
++ bond calculation
 
 # Interface Options:
 + Create a new standalone code dependency
@@ -20,6 +21,7 @@ The purpose of this project is to provide a calculator which helps people to be 
 
 
 # TESTING 
+
 
 
 
