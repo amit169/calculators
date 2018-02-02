@@ -6,7 +6,7 @@ The purpose of this project is to provide a calculator which helps people to be 
 # Features :
 + Add Home Loan Calculator
 + for car and house 
-+ currency conversions
++ currency conversions - Have currency options
 + include currency conversions
 + Feature A - calls to check affordability based on how much chocolate the customer eats
 + bond calculation
