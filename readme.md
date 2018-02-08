@@ -1,4 +1,4 @@
-# This is a mock project to train the braoder IT community to contribute on Open Source; 
+# This is a mock project to train the broader IT community to contribute on Open Source; 
 # Please note that there is no itention to fully fucntionally realise this project. 
 # feel free to submit pull requests even just to test your knowlege of the pull request process; 
 ************************************************************************************************************
