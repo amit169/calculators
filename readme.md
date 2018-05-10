@@ -16,7 +16,9 @@ The purpose of this project is to provide a calculator which helps people to be 
 + include currency conversions
 + Feature A - calls to check affordability based on how much chocolate the customer eats
 + bond calculation
-+ Investment in a retirement annuity vs a fixed deposit.
++Investment in a retirement annuity vs a fixed deposit.
++ Calculate indicative investment values over a period of time
++ Addstokvel as investment options 
 
 # Interface Options:
 + Create a new standalone code dependency
@@ -26,8 +28,7 @@ The purpose of this project is to provide a calculator which helps people to be 
 +integrate to AWS
 
 
-# TESTING 
-
+# effort 
 
 
 
