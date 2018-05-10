@@ -14,9 +14,10 @@ The purpose of this project is to provide a calculator which helps people to be 
 + for car and house 
 + currency conversions - Have currency options
 + include currency conversions
-+ Feature A - calls to check affordability based on how much chocolate the customer eats
++ Feature A - calls to check affordability based on how much liquor the customer drink
 + bond calculation
-+ Investment in a retirement annuity vs a fixed deposit.
++ Investment in a retirement annuity vs a fixed deposit
++ Add a calculater to studyfees.
 
 # Interface Options:
 + Create a new standalone code dependency
