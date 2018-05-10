@@ -30,6 +30,7 @@ The purpose of this project is to provide a calculator which helps people to be 
 
 
 # TESTING 
+Test on all ages and demographics.
 
 
 
