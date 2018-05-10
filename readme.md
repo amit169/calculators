@@ -17,6 +17,9 @@ The purpose of this project is to provide a calculator which helps people to be 
 + Feature A - calls to check affordability based on how much chocolate the customer eats
 + bond calculation
 + Investment in a retirement annuity vs a fixed deposit.
++ Build in Tax that needs to be paid on your income.
++ Make the app default to ZAR instead of USD
++ Integrate it with real time expenditure.
 
 # Interface Options:
 + Create a new standalone code dependency
